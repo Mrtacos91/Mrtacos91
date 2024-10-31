@@ -3,8 +3,8 @@
 ## About Me
 - 👋 Hi, my name is Max
 - 🔭 I am currently studying software development
-- 🌱 I'm focused on learning data science, machine learning and deep learning
-- 👯 I am interested in collaborating on any type of project that gives me knowledge in my area
+- 🌱 I'm focused on data science, machine learning and deep learning
+- 👯 I am interested in working on any project to test my knowledge
 
 
 ## Skills:
