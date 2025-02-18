@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mrtacos91/Mrtacos91/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mrtacos91/Mrtacos91/snake.yml" alt="Snake animation" />
 
 ###
 
