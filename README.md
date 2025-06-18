@@ -1,4 +1,4 @@
-<h2 align="left">Hi, im Max Gomez ✌️<br><br>About Me<br><br>👋 Hi, my name is Max<br>🌱 I'm focused on data science, machine learning and deep learning<br>👯 I am interested in working on any project to test my knowledge</h2>
+<h2 align="left">Hi, im Max Gomez ✌️<br><br>About Me<br><br>👋 Hi, my name is Max<br>🌱 I am focused on data science, web development and backend development<br>👯 I am interested in working on any project</h2>
 
 ###
 
